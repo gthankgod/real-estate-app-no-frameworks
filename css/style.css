@@ -158,11 +158,13 @@ nav #navbar-form input {
 .register:hover {
   background-color: #fff;
   color: rgb(65, 10, 82);
+  border: 1px solid rgb(65,10,82);
 }
 
 .login:hover {
   background-color: #fff;
   color: rgba(236, 44, 230, 0.76);
+  border:1px solid rgb(236,44,230,0.76);
 }
 
 .search {
